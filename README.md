@@ -14,3 +14,6 @@ Then play a game of checkers across your WiFi!
 If the server cannot find an opponent for you it will put you in a waiting lobby.
 You can connect an infinite number of people to the server, and they will all be able to play(dont push it though).
 
+## Languages
+Python 3.7.2
+
